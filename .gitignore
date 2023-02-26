@@ -1,1 +1,2 @@
-/docker-compose.yml
+/auth-api/package-lock.json
+docker-compose.yml
